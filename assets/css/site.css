@@ -28,10 +28,12 @@ h3 { font-size: 1.4rem; font-weight: 500; margin: 2rem 0 1rem; color: var(--text
 
 .paper { border-left: 3px solid var(--line); padding-left: 1.25rem; margin-bottom: 1.75rem; }
 .paper-title { font-weight: 500; font-size: 1.1rem; color: var(--heading); }
+.paper-meta { font-size: .95rem; }
 .paper-status { font-weight: 700; color: var(--heading); }
 .paper-links { margin-top: .3rem; }
 .paper-links a { color: var(--muted); }
 .panel { margin-top: .6rem; font-size: .95rem; }
+.teach { margin: 0 0 1rem; }
 
 @media (max-width: 720px) {
   .hero { flex-direction: column; gap: 1.5rem; }
