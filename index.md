@@ -1,6 +1,6 @@
 <section id="about" class="hero">
   <div class="hero-side">
-    <img class="avatar" src="/images/profile.jpg" alt="Balasai Vanukuri">
+    <img class="avatar" src="/images/profile.JPG" alt="Balasai Vanukuri">
     <ul class="contact">
       <li><i class="fa-regular fa-envelope"></i><a href="mailto:balasai.vanukuri@psemail.eu">balasai.vanukuri@psemail.eu</a></li>
       <li><i class="fa-regular fa-file-lines"></i><a href="/files/Balasai_CV.pdf">CV</a></li>
