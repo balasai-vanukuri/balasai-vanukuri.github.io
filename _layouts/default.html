@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+</head>
+<body>
+  <nav class="tabs">
+    <a href="/" class="{% if page.url == '/' %}active{% endif %}">About</a>
+    <a href="/research/" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
+    <a href="/cv/" class="{% if page.url == '/cv/' %}active{% endif %}">CV</a>
+    <a href="/teaching/" class="{% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
+  </nav>
+
+  <div class="wrap">
+    <aside class="profile">
+      <img src="/images/profile.jpg" alt="Balasai Vanukuri">
+      <h1>Balasai<br>Vanukuri</h1>
+      <p class="role">PhD Candidate in Economics</p>
+      <p><a href="https://www.parisschoolofeconomics.eu/">Paris School of Economics</a></p>
+      <p class="links">
+        YOUR_EMAIL<br>
+        <a href="SCHOLAR_URL">Scholar</a> · <a href="https://github.com/balasai-vanukuri">GitHub</a>
+      </p>
+      <a class="button" href="/files/cv.pdf">Download CV</a>
+    </aside>
+
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
