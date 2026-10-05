@@ -1,0 +1,25 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Georgia, "Times New Roman", serif; color: #222; line-height: 1.6; background: #fff; }
+a { color: #1a5fb4; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.tabs { display: flex; gap: 1.5rem; justify-content: center; padding: 1rem; border-bottom: 1px solid #ddd; position: sticky; top: 0; background: #fff; }
+.tabs a { color: #444; font-family: Helvetica, Arial, sans-serif; font-size: 0.95rem; padding-bottom: 2px; }
+.tabs a.active { color: #000; border-bottom: 2px solid #000; }
+
+.wrap { display: flex; gap: 3rem; max-width: 960px; margin: 2.5rem auto; padding: 0 1.25rem; }
+.profile { flex: 0 0 240px; text-align: center; }
+.profile img { width: 180px; height: 180px; object-fit: cover; border-radius: 50%; }
+.profile h1 { font-size: 1.6rem; margin: 1rem 0 0.5rem; line-height: 1.2; }
+.profile .role { font-weight: bold; margin: 0; }
+.profile p { margin: 0.4rem 0; font-size: 0.95rem; }
+.button { display: inline-block; margin-top: 0.75rem; padding: 0.4rem 1rem; border: 1px solid #222; border-radius: 4px; color: #222; font-family: Helvetica, Arial, sans-serif; font-size: 0.9rem; }
+.button:hover { background: #222; color: #fff; text-decoration: none; }
+
+.content { flex: 1; min-width: 0; }
+.content h2 { margin-top: 0; }
+
+@media (max-width: 720px) {
+  .wrap { flex-direction: column; gap: 1.5rem; }
+  .profile { flex: none; }
+}
