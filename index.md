@@ -13,6 +13,6 @@
     <p>I am a PhD candidate in Economics at the <a href="https://www.parisschoolofeconomics.eu/">Paris School of Economics</a> (PSE) and <a href="https://www.pantheonsorbonne.fr/">Université Paris 1 Panthéon-Sorbonne</a>, where my research is supervised by <a href="https://www.parisschoolofeconomics.eu/personnes/karen-macours/">Karen Macours</a> and <a href="https://www.parisschoolofeconomics.eu/personnes/oliver-vanden-eynde/">Oliver Vanden Eynde</a>. I was a Visiting Scholar at MIT in Fall 2025, hosted by Abhijit Banerjee. I am also an Associate Researcher at the Education Policy and Social Mobility Chair at PSE.</p>
     <p><strong>I am on the 2026–2027 academic job market.</strong></p>
     <p>My research is in development economics, at the intersection of political economy and human capital. I study how social networks and identity shape economic opportunities and support for redistributive policies. I also study how individuals and communities respond to climate risks and build resilience through skills and technology.</p>
-    <p>Before my PhD, I was a Tobin Predoctoral Fellow at Yale University and a research consultant at the World Bank. I hold a B.Tech. and M.Tech. in Chemical Engineering from IIT Delhi.</p>
+    <p>Before my PhD, I was a Tobin Predoctoral Fellow at Yale University. I also worked as a Research Assistant at the World Bank Development Research Group. I hold a B.Tech. and M.Tech. in Chemical Engineering from IIT Delhi.</p>
   </div>
 </section>
