@@ -3,33 +3,34 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <title>{{ site.title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body>
-  <nav class="tabs">
-    <a href="/" class="{% if page.url == '/' %}active{% endif %}">About</a>
-    <a href="/research/" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
-    <a href="/cv/" class="{% if page.url == '/cv/' %}active{% endif %}">CV</a>
-    <a href="/teaching/" class="{% if page.url == '/teaching/' %}active{% endif %}">Teaching</a>
-  </nav>
-
-  <div class="wrap">
-    <aside class="profile">
-    <img src="/images/profile.jpg" alt="Balasai Vanukuri">
-    <h1>Balasai<br>Vanukuri</h1>
-    <p class="role">PhD Candidate in Economics</p>
-    <p><a href="https://www.parisschoolofeconomics.eu/">Paris School of Economics</a></p>
-    <p class="links">
-    <a href="mailto:balasai.vanukuri@psemail.eu">balasai.vanukuri@psemail.eu</a><br>
-    <a href="https://www.linkedin.com/in/balasai-vanukuri/">LinkedIn</a> · <a href="https://github.com/balasai-vanukuri">GitHub</a>
-  </p>
-  <a class="button" href="/files/cv.pdf">Download CV</a>
-</aside>
-
-    <main class="content">
+  <div class="page">
+    <header class="topbar">
+      <a class="brand" href="#about">Balasai Vanukuri</a>
+      <nav>
+        <a href="#research">Research</a>
+        <a href="#teaching">Teaching</a>
+      </nav>
+    </header>
+    <main>
       {{ content }}
     </main>
   </div>
+
+  <script>
+  document.querySelectorAll('.paper-links a[data-target]').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var panel = document.getElementById(a.dataset.target);
+      panel.hidden = !panel.hidden;
+    });
+  });
+  </script>
 </body>
 </html>
