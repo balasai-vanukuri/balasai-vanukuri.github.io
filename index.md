@@ -1,9 +1,4 @@
 ---
-layout: default
-title: Home
-permalink: /
----
-
 <section id="about" class="hero">
   <div class="hero-side">
     <img class="avatar" src="/images/profile.JPG" alt="Balasai Vanukuri">
