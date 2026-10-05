@@ -1,8 +1,4 @@
----
-layout: default
-title: About
-permalink: /
----
+
 
 <section id="about" markdown="1">
 
