@@ -42,32 +42,31 @@ title: Balasai Vanukuri
   <div class="paper">
     <div class="paper-title">Family Trees of Opportunity: Vertical Peer Effects and Skill Transmission in Public Universities</div>
     <div class="paper-meta">with Oscar Diaz and Palaash Bhargava</div>
-    <div class="paper-links"><a href="#" data-target="abs-trees">Abstract</a></div>
-    class="panel" id="abs-trees" hidden>Peer effects are central to the education production function, but little is known about how vertical peers, such as older-cohort mentors, interact with horizontal peers, such as co-mentees, or how the social networks behind them matter. We study a mentoring program at an elite public engineering institute in India, where each entering student is paired with an older student as a mentor and placed in a group of co-mentees. Using administrative records that link mentors and mentees across multiple generations of a "family tree" covering 14,599 students across 17 cohorts, we ask how a mentor's network, a mentor's characteristics such as academic performance, caste, and specialization, and complementarities with co-mentees shape student outcomes. We measure outcomes including time to graduation, employment, estimated salary, higher education, and entrepreneurship, using LinkedIn profile data.</div>
+    <div class="paper-links"><a href="#" data-target="abs-trees">Abstract</a><span class="status">Analysis ongoing</span></div>
+    <div class="panel" id="abs-trees" hidden>Peer effects are central to the education production function, but little is known about how vertical peers, such as older-cohort mentors, interact with horizontal peers, such as co-mentees, or how the social networks behind them matter. We study a mentoring program at an elite public engineering institute in India, where each entering student is paired with an older student as a mentor and placed in a group of co-mentees. Using administrative records that link mentors and mentees across multiple generations of a "family tree" covering 14,599 students across 17 cohorts, we ask how a mentor's network, a mentor's characteristics such as academic performance, caste, and specialization, and complementarities with co-mentees shape student outcomes. We measure outcomes including time to graduation, employment, estimated salary, higher education, and entrepreneurship, using LinkedIn profile data.</div>
   </div>
   <div class="paper">
     <div class="paper-title">Enabling Access to Safe Water: Evidence from Gujarat</div>
     <div class="paper-meta">with Vrinda Sharma</div>
-    <div class="paper-links"><a href="#" data-target="abs-water">Abstract</a></div>
-    <div class="panel" id="abs-water" hidden>ABSTRACT</div>
+    <div class="paper-links"><a href="#" data-target="abs-water">Abstract</a><span class="status">Piloting completed</span></div>
+
   </div>
   <div class="paper">
     <div class="paper-title">Transfers, Income Diversification and Climate Adaptation: Long-term Evidence</div>
     <div class="paper-meta">with Karen Macours, Patrick Premand, and Renos Vakis</div>
-    <div class="paper-links"><a href="#" data-target="abs-transfers">Abstract</a></div>
-    <div class="panel" id="abs-transfers" hidden>ABSTRACT</div>
+    <div class="paper-links"><a href="#" data-target="abs-transfers">Abstract</a><span class="status">Analysis ongoing</span></div>
+  
   </div>
   <div class="paper">
     <div class="paper-title">Meta-analysis of On-farm and Off-farm Training Programs</div>
     <div class="paper-meta">with Karen Macours, Marcelo Gantier, and Amit Khanal</div>
-    <div class="paper-links"><a href="#" data-target="abs-meta">Abstract</a></div>
-    <div class="panel" id="abs-meta" hidden>ABSTRACT</div>
+    <div class="paper-links"><a href="#" data-target="abs-meta">Abstract</a><span class="status">Analysis ongoing</span></div>
+    
   </div>
   <div class="paper">
     <div class="paper-title">Natural Disasters, Land Markets, and Inter-Religious Dynamics: Evidence from Bihar</div>
     <div class="paper-meta">with Oliver Vanden Eynde and Nitin Bharati</div>
-    <div class="paper-links"><a href="#" data-target="abs-bihar">Abstract</a></div>
-    <div class="panel" id="abs-bihar" hidden>ABSTRACT</div>
+    <div class="paper-links"><a href="#" data-target="abs-bihar">Abstract</a><span class="status">Analysis ongoing</span></div>
   </div>
 </section>
 
