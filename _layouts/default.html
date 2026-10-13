@@ -5,32 +5,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
 </head>
 <body>
-  <div class="page">
-    <header class="topbar">
+  <header class="topbar">
+    <div class="topbar-inner">
       <a class="brand" href="#about">Balasai Vanukuri</a>
-      <nav>
+      <nav aria-label="Main">
+        <a href="#about">About</a>
         <a href="#research">Research</a>
         <a href="#teaching">Teaching</a>
+        <a href="{{ '/files/Balasai_CV.pdf' | relative_url }}">CV</a>
       </nav>
-    </header>
-    <main>
-      {{ content }}
-    </main>
-  </div>
+    </div>
+  </header>
+
+  <main class="page">
+    {{ content }}
+  </main>
+
+  <footer class="foot">&copy; {{ 'now' | date: "%Y" }} Balasai Vanukuri</footer>
 
   <script>
+  // Abstract toggles
   document.querySelectorAll('.paper-links a[data-target]').forEach(function (a) {
+    a.setAttribute('role', 'button');
+    a.setAttribute('aria-expanded', 'false');
     a.addEventListener('click', function (e) {
       e.preventDefault();
       var panel = document.getElementById(a.dataset.target);
       panel.hidden = !panel.hidden;
+      a.setAttribute('aria-expanded', String(!panel.hidden));
     });
   });
+
+  // Underline the current section in the top bar
+  var navLinks = {};
+  document.querySelectorAll('.topbar nav a[href^="#"]').forEach(function (a) {
+    navLinks[a.getAttribute('href').slice(1)] = a;
+  });
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (en) {
+        if (en.isIntersecting && navLinks[en.target.id]) {
+          Object.values(navLinks).forEach(function (l) { l.classList.remove('active'); });
+          navLinks[en.target.id].classList.add('active');
+        }
+      });
+    }, { rootMargin: '-40% 0px -55% 0px' });
+    Object.keys(navLinks).forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) io.observe(el);
+    });
+  }
   </script>
 </body>
 </html>
