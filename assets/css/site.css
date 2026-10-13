@@ -2,29 +2,17 @@
    Academic site: Fraunces for headings, DM Sans for text
    ============================================================ */
 :root {
-  --bg: #fbfbfd;
-  --surface: #ffffff;
-  --ink: #161a23;
-  --muted: #5f6878;
-  --rule: #e3e6ec;
-  --accent: #7a1f3d;
-  --accent-ink: #5f1630;
-  --tint: #f6eef1;
+  color-scheme: light;
+  --bg: #fcf5ea;
+  --surface: #fffaf2;
+  --ink: #2a2018;
+  --muted: #75665a;
+  --rule: #eadccb;
+  --accent: #b4461f;
+  --accent-ink: #8f3416;
+  --tint: #f7e6d3;
   --display: "Fraunces", Georgia, "Times New Roman", serif;
   --text: "DM Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #12141a;
-    --surface: #181b23;
-    --ink: #eceef3;
-    --muted: #a0a8b8;
-    --rule: #2a2e39;
-    --accent: #e08aa6;
-    --accent-ink: #f1b3c6;
-    --tint: #231b21;
-  }
 }
 
 * { box-sizing: border-box; }
