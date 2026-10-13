@@ -15,10 +15,10 @@ title: Balasai Vanukuri
   </div>
   <div class="hero-main">
     <h1>Balasai Vanukuri</h1>
-    <p>I am a PhD candidate in Economics at the <a href="https://www.parisschoolofeconomics.eu/">Paris School of Economics</a> (PSE) and <a href="https://www.pantheonsorbonne.fr/">Université Paris 1 Panthéon-Sorbonne</a>, where my research is supervised by <a href="https://www.parisschoolofeconomics.eu/personnes/karen-macours/">Karen Macours</a> and <a href="https://www.parisschoolofeconomics.eu/personnes/oliver-vanden-eynde/">Oliver Vanden Eynde</a>. I was a Visiting Scholar at MIT in Fall 2025, hosted by <a href="https://www.econ.uzh.ch/en/people/faculty/banerjee.html">Abhijit Banerjee</a>. I am also an Associate Researcher at the Education Policy and Social Mobility Chair at PSE.</p>
+    <p>I am a PhD candidate in Economics at the <a href="https://www.parisschoolofeconomics.eu/">Paris School of Economics</a> (PSE) and <a href="https://www.pantheonsorbonne.fr/">Université Paris 1 Panthéon-Sorbonne</a>, where my research is supervised by <a href="https://www.parisschoolofeconomics.eu/personnes/karen-macours/">Karen Macours</a> and <a href="https://www.parisschoolofeconomics.eu/personnes/oliver-vanden-eynde/">Oliver Vanden Eynde</a>. I was a Visiting Scholar at MIT in Fall 2025, hosted by <a href="https://www.econ.uzh.ch/en/people/faculty/banerjee.html">Abhijit Banerjee</a>. </p>
     <p><strong>I am on the 2026–2027 academic job market.</strong></p>
-    <p>My research is in development economics, at the intersection of political economy and human capital. I study how social networks and identity shape economic opportunities and support for redistributive policies. I also study how individuals and communities respond to climate risks and build resilience through skills and technology.</p>
-    <p> Currently, also working as a Research Consultant at the World Bank Development Research Group. Before my PhD, I was a Tobin Predoctoral Fellow at Yale University and hold a B.Tech. and M.Tech. in Chemical Engineering from IIT Delhi.</p>
+   <p>My research is in development economics, at the intersection of political economy and human capital. I look at how social networks and identity shape economic opportunities and support for redistribution. I also study how people and communities cope with climate risks, and how skills and technology help them adapt.</p>
+    <p> Currently, I am also a Research Consultant at the World Bank Development Research Group and an Associate Researcher at the Education Policy and Social Mobility Chair at PSE. Before my PhD, I was a Tobin Predoctoral Fellow at Yale University. I did a B.Tech. and M.Tech. in Chemical Engineering at IIT Delhi, before I turned to economics.</p>
   </div>
 </section>
 
