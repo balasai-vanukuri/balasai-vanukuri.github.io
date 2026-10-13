@@ -222,6 +222,13 @@ h3 + .paper { border-top: none; padding-top: 0; }
 .paper-links a[aria-expanded="true"]::before { transform: rotate(45deg); }
 .paper-links a[aria-expanded="true"] { border-color: var(--accent); color: var(--accent-ink); }
 
+.status {
+  margin-left: 0.8rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
 .panel {
   margin-top: 0.9rem;
   padding: 0.15rem 0 0.15rem 1.1rem;
