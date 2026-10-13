@@ -72,8 +72,8 @@ title: Balasai Vanukuri
 
 <section id="teaching">
   <h2>Teaching</h2>
-  <p class="teach"><strong>Econometrics 1: Treatment Effect Models</strong>, Teaching Assistant, Master 1 in Public Policy and Development (PPD), Paris School of Economics, 2022–23 and 2023–24</p>
+  <p class="teach"><strong>Econometrics 1 </strong>, Teaching Assistant, Master 1 in Public Policy and Development (PPD), Paris School of Economics, 2022–23 and 2023–24</p>
   <p class="teach"><strong>Econometrics 2</strong>, Teaching Assistant, Master's in Economics, Université Paris 1 Panthéon-Sorbonne, 2026–27</p>
-  <p class="teach"><strong>Econometrics 2</strong>, Teaching Assistant, Analysis and Policy in Economics (APE), Paris School of Economics, 2026–27</p>
+  <p class="teach"><strong>Econometrics 2A </strong>, Teaching Assistant, Analysis and Policy in Economics (APE), Paris School of Economics, 2026–27</p>
   <p class="teach"><strong>Linear Algebra (undergraduate)</strong>, Teaching Assistant, Université Paris 1 Panthéon-Sorbonne, 2026–27</p>
 </section>
