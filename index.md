@@ -36,7 +36,7 @@ title: Balasai Vanukuri
   <div class="paper">
     <div class="paper-title">Impact of Weather Shocks on Trust in Agrarian Communities: Evidence from Rural India</div>
     <div class="paper-links"><a href="#" data-target="abs-weather">Abstract</a></div>
-    <div class="panel" id="abs-weather" hidden> Climate change is likely to increase risks in the agricultural sector in developing countries, particularly by affecting access to water. However, little is known about how social institutions such as trust and cooperation respond to resource scarcity induced by weather shocks. In this study, I examine the effects of weather shocks on cooperation over water within communities. I find that shocks during the wet (Kharif) season have no significant effect on cooperation, whereas dry-season (Rabi) shocks increase the likelihood of cooperation within communities. This increase does not appear to be driven by agricultural water needs, as I find no heterogeneous effects by irrigation status or irrigation technology (groundwater versus surface water irrigation). I then examine how weather shocks affect conflict. Rabi-season shocks increase conflict, driven by greater tensions between communities and caste groups. Taken together, these findings suggest that moderately adverse dry-season shocks may strengthen cooperation within groups while increasing hostility toward outsiders. I also find that Rabi-season shocks reduce the number of loans received by 8.5%. This effect is concentrated among households exposed to shocks in the earlier years of the study period (2006–2008).</div>
+    <div class="panel" id="abs-weather" hidden> </div>
 
   <h3>Work in Progress</h3>
   <div class="paper">
