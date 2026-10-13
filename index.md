@@ -68,7 +68,7 @@ title: Balasai Vanukuri
     <div class="paper-meta">with Oliver Vanden Eynde and Nitin Bharati</div>
     <div class="paper-links"><a href="#" data-target="abs-bihar">Abstract</a><span class="status">Analysis ongoing</span></div>
   </div>
-</section>
+
 
 <section id="teaching">
   <h2>Teaching</h2>
