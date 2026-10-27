@@ -66,7 +66,7 @@ differ significantly by baseline irrigation access. Ongoing work investigates th
   
   </div>
   <div class="paper">
-    <div class="paper-title">Meta-analysis of On-farm and Off-farm Training Programs</div>
+    <div class="paper-title">Building Skills in Agri-Food Systems: A Meta-Analysis of Extension and Training Programs</div>
     <div class="paper-meta">with Karen Macours, Marcelo Gantier, and Amit Khanal</div>
      <div class="paper-links"><span class="status">Analysis ongoing</span></div>
   
