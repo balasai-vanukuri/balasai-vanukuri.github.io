@@ -34,7 +34,7 @@ Context of Affirmative Action </a></div>
 
   <h3>Working Papers</h3>
   <div class="paper">
-    <div class="paper-title">Impact of Weather Shocks on Trust in Agrarian Communities: Evidence from Rural India</div>
+    <div class="paper-title" ><a href="files/Weathershocks_cooperation.pdf"target="_blank" rel="noopener">Impact of Weather Shocks on Trust in Agrarian Communities: Evidence from Rural India</div>
     <div class="paper-links"><a href="#" data-target="abs-weather">Abstract</a></div>
     <div class="panel" id="abs-weather" hidden>This paper examines how drought affects collective action in rural India. Using the two-wave
 India Human Development Survey panel (2005 and 2012) and district-level drought measures (SPEI), I
